@@ -1,3 +1,3 @@
 # A simple student api with Fast Api 
-This is a simple student api using mongodb as database with fast api framework
+This is just an introduction to fastapi framework using mongodb as database and implementing a CRUD operation based a student module.
 
